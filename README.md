@@ -1,1 +1,1 @@
-# Approximate-solutions-of-Schroedinger-equation-and-Frobenius-method
+# Approximate solutions of Schroedinger equation and Frobenius method
